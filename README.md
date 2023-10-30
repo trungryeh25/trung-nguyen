@@ -10,6 +10,6 @@ Hi, I’m Trung.<br>💬 Ask me about html & css, javascript, python and django.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=trung-nguyen&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=trung-nguyen&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=trung-nguyen&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=trung-nguyen&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 
